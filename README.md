@@ -13,8 +13,8 @@ There are two main scripts that prepare the grids required for NHWAVE simulation
 
 ### 2. Output Visualization
 Three scripts are available for visualizing and analyzing NHWAVE simulation outputs:
-- **MOVIE ONDA (MATLAB)**: Visualizes the tsunami wave output.
-- **MOVIE FRANA (MATLAB)**: Provides detailed video for landslide simulation.
+- **Movie_Frana (MATLAB)**: Provides detailed video for landslide simulation.
+- **Movie_Onda (MATLAB)**: Visualizes the landslide and tsunami wave outputs.
 - **plot probe (MATLAB)**: Offers comprehensive visual summaries of virtual mareograms outputs.
 
 ### 3. NHWAVE Simulation Outputs
